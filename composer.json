@@ -1,0 +1,19 @@
+{
+    "name": "thielander/text2speech",
+    "description": "here",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Thielander\\Text2speech\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Alexander Thiele",
+            "email": "mail@alexanderthiele.de"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
