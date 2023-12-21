@@ -1,6 +1,7 @@
 {
     "name": "thielander/text2speech",
-    "description": "here",
+    "description": "PHP library for easy integration of OpenAI's text-to-speech API for text-to-speech conversion",
+    "homepage": "https://www.linkedin.com/in/thielander/",
     "type": "library",
     "license": "MIT",
     "autoload": {
